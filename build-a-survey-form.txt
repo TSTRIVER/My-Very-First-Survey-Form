@@ -5,7 +5,7 @@
 <head>
   <meta charset="utf-8">
   <title>Survey Form</title>
-  <link href="styles.css" rel="stylesheet"/>
+  <link href="surveyform.css" rel="stylesheet"/>
   </head>
   <body>
     <h1 id="title">TStrivers Survey Form</h1>
